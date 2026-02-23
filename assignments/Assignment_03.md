@@ -1,5 +1,5 @@
 # APARTADO 1 - Preguntas personales
-## NICOLÁS AGUIRRE VELÁSQUEZ
+## Nicolás Aguirre Velásquez
 ### ROL
 Dentro de un equipo de desarrollo de software me gustaría ser quien
 profundiza en arquitectura y diseño o quien organiza y facilita, pues
@@ -18,7 +18,7 @@ del equipo es tener un mejor manejo del tiempo, dividiendo las tareas en
 objetivos pequeños y estableciendo tiempos específicos para avanzar progresivamente
 sin dejar todo para último momento.
 
-## Gabriel Huertas
+## Gabriel Esteban Huertas Ruiz
 ### ROL
 •	En espacios de trabajo de equipo suelo desenvolverme mejor en un rol flexible entre
 los demás no tengo preferencia por algún rol y puedo cumplir con las particularidades de cada uno de ellos.
